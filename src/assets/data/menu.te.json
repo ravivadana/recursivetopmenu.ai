@@ -1,0 +1,84 @@
+[
+	{
+		"name": "హొమ్",
+		"url": "index.html"
+	},
+	{
+		"name": "సర్వీసెస్",
+		"url": "services.html",
+		"submenu": [
+			{
+				"name": "వెబ్ డిజైన్ ",
+				"url": "webdesign.html",
+				"submenu": [
+					{
+						"name": "ఫోటోషాప్ ",
+						"url": "Photoshop.html"
+					},
+					{
+						"name": "ఇల్యూస్ట్రాటోర్",
+						"url": "Illustrator.html"
+					}
+				]
+			},
+			{
+				"name": "వెబ్ developement",
+				"url": "webdev.html",
+				"submenu": [
+					{
+						"name": "సర్వర్ సైడ్ ",
+						"url": "ServerSide.html",
+						"submenu": [
+							{
+								"name": "ఫి హాయ్ ఫి",
+								"url": "php.html"
+							},
+							{
+								"name": "జె ఎస్ ఫి ",
+								"url": "jsp.html"
+							},
+							{
+								"name": "ఏ ఎస్ ఫి . నెట్ ",
+								"url": "aspnet.html"
+							},
+							{
+								"name": "పైథాన్ ",
+								"url": "pydjango.html"
+							}
+						]
+					},
+					{
+						"name": "క్లయింట్ సైడ్.",
+						"url": "ClientSide.html"
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "ప్రొడక్ట్స్  ",
+		"url": "product.html",
+		"submenu": [
+			{
+				"name": "ప్రోడక్ట్ 1",
+				"url": "product1.html"
+			},
+			{
+				"name": "ప్రోడక్ట్ 2",
+				"url": "product2.html"
+			},
+			{
+				"name": "ప్రోడక్ట్ 3",
+				"url": "product3.html"
+			}
+		]
+	},
+	{
+		"name": "అబౌట్ ",
+		"url": "about.html"
+	},
+	{
+		"name": "కాంటాక్ట్",
+		"url": "contact.html"
+	}
+]

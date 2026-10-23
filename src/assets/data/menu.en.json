@@ -1,0 +1,19 @@
+[
+  { "name": "Home", "url": "index.html" },
+  {
+    "name": "Services",
+    "url": "services.html",
+    "submenu": [
+      {
+        "name": "Web Design",
+        "url": "webdesign.html",
+        "submenu": [
+          { "name": "Photoshop", "url": "Photoshop.html" },
+          { "name": "Illustrator", "url": "Illustrator.html" }
+        ]
+      }
+    ]
+  },
+  { "name": "About", "url": "about.html" },
+  { "name": "Contact", "url": "contact.html" }
+]
